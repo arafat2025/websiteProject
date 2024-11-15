@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="description" content="Protfolio">
+    <meta name=" Eachin " content=" website ">
+    <meta ttp-equiv="refresh" content="30">
+
+    <title>FDBD CODER</title>
+
+    <link rel="shortcut icon" href="myImage/icon.png" type="image/x-icon">
+   <!-- <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> -->
+   <link rel="stylesheet" href="css/all.min.css">
+   <link rel="stylesheet" href="css/fontawsme.min.css">
+   
+   <link rel="stylesheet" href="bxslider.min.css">
+    
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <a class="logo" href="">FdbD CODER</a>
+
+        <input type="checkbox" id="menu-bar">
+        <label for="menu-bar">Menu</label>
+
+      <nav class="navbar">
+        <uL>
+            <li> <a href="#">home</a></li>
+            <li> <a href="#">about</a></li>
+            <li> <a href="#">pages +</a>
+                 <ul>
+                    <li> <a href="#">blog</a></li>
+                    <li> <a href="#">service +</a>
+                         <ul>
+                            <li><a href="#">Html</a></li>
+                            <li><a href="#">CSS</a></li>
+                            <li><a href="#">Javascript</a></li>
+                         </ul>
+                    </li>
+                 </ul>
+            </li>  
+            <li> <a href="#">review</a> </li>         
+            <li> <a href="#">galery +</a>
+                 <ul>
+                    <li><a href="#">Grid Galery</a></li>
+                    <li><a href="#">Flex Galery</a></li>
+                </ul>
+            </li>          
+            <li> <a href="#">contact</a></li>
+
+        </uL>
+      </nav>
+    </header>
+
+
+
+
+    
+    <section id="slider">
+         <div class="slider">
+             <div class="item">
+                <img src="myImage/0.jpg">
+            </div> 
+             <div class="item">
+                <img src="myImage/1.jpg">
+            </div>
+            <div class="item">
+                <img src="myImage/2.jpg">
+            </div>
+            <div class="item">
+                <img src="myImage/3.jpg">
+            </div>
+            <div class="item">
+                <img src="myImage/4.jpg">
+            </div>
+             <div class="item">
+                <img src="myImage/5.jpg">
+            </div>
+             <div class="item">
+                <img src="myImage/6.jpg">
+            </div>
+            <div class="item">
+                <img src="myImage/7.jpg">
+            </div>
+            <div class="item">
+                <img src="myImage/8.jpg">
+            </div> 
+         </div>
+    </section> 
+      <h1 align="center"><b>Title: some Lorem Text</b></h1>
+   <div class="lorem_text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis vel fuga in nesciunt eius iusto excepturi. Incidunt doloremque mollitia voluptatem fuga, quod perferendis, aut ullam illum quisquam velit suscipit, exercitationem sunt! Consequatur magni molestias in iste tempora dolore culpa omnis voluptatibus dolor explicabo asperiores repudiandae quam commodi, totam atque quisquam tenetur aliquid alias aliquam, veniam aperiam nisi molestiae voluptatum. Inventore provident enim dicta praesentium omnis aliquam ipsa expedita voluptatibus nostrum error aliquid illum, ab facilis. Illo, dolor quasi necessitatibus architecto, inventore voluptas consequuntur adipisci suscipit quisquam aperiam qui ratione velit, at atque iusto perspiciatis vel neque autem asperiores ab labore placeat ducimus! Pariatur ad atque corrupti sint, odit corporis laborum facere voluptate assumenda ratione quibusdam dolorum sequi dolorem iure, distinctio odio quasi tempore eum officia labore. Velit, aliquam sequi vitae neque numquam ut voluptas quam adipisci odit, totam omnis quo quod ipsum fuga eos animi doloribus consequatur repellat amet! Iusto tenetur soluta illum quisquam, ipsam assumenda vero consequatur. Error nemo adipisci culpa pariatur quisquam alias numquam quae vero dignissimos? Architecto non ipsam eius nihil? Quisquam cupiditate adipisci ab minus voluptas soluta aliquid harum, temporibus facere, molestias nostrum beatae. Odio iusto numquam perferendis vel! Saepe reiciendis sunt quos reprehenderit minus aspernatur aliquam impedit culpa. Voluptatem, adipisci id? Cupiditate at exercitationem fugiat explicabo quis quos nulla mollitia, minus corrupti nihil! Saepe aperiam unde natus atque laborum distinctio magni officia, magnam ex dignissimos, vero cumque! Rem quia iure nulla praesentium suscipit animi incidunt aliquam eum ad enim error numquam facere odit deserunt inventore ipsam alias, culpa, dolorum expedita maxime? Alias, vero ratione totam ex quae illum praesentium facere nesciunt sequi inventore recusandae dignissimos. Saepe nobis odit dicta facere deleniti laboriosam, voluptates magni culpa neque ea id repudiandae hic sint mollitia ducimus provident asperiores. Possimus, illum repellendus! Alias provident at sapiente totam nisi fugit asperiores facilis, nobis esse repellendus praesentium corrupti doloribus, ullam eum beatae officia? Temporibus ipsa illum beatae, molestiae tempora repellat ex natus nihil nisi quos blanditiis corrupti. Eligendi consectetur quis impedit, est rem nihil fuga! Sequi impedit deleniti quia placeat, magni enim pariatur animi sapiente ducimus dignissimos iste eaque. A eius ratione necessitatibus, consequuntur illum doloremque obcaecati iusto officiis. Reiciendis, soluta vel vero voluptatum error velit illo id cumque neque asperiores assumenda modi odio perferendis aliquid facilis provident ab autem adipisci at rem! Earum iusto et animi libero nobis doloremque dignissimos eos saepe architecto numquam quae, atque debitis, necessitatibus laborum velit deleniti placeat commodi sunt. Aliquam, amet est culpa officiis, maxime debitis vero non veniam dignissimos incidunt minima. Quam ut dolore obcaecati eos quod cupiditate eum. Commodi, laboriosam magni? Possimus reprehenderit eveniet, provident dolor impedit suscipit ab illo dolores dolorem ipsa deserunt repudiandae at laborum esse tenetur eaque fugit consequuntur fuga laudantium amet nesciunt harum. Tempore ratione sequi ipsam amet, fuga eum aspernatur nesciunt explicabo beatae ipsa molestias. Ipsam, distinctio eius officiis debitis perferendis at esse. Minus quidem vero, consequuntur dolorem officiis, quaerat voluptate ex, tenetur non dolor odit harum. Vitae, quisquam iure cupiditate consequatur ea commodi aliquam doloribus? Facere, nobis?</div>
+
+
+<aside id="flex_galary">
+    <div class="flex_galar">
+        <img src="myImage/00.jpg" alt="">
+         <h3 align="center">Picture </h3> 
+    </div>
+    <div class="flex_galar">
+        <img src="myImage/0.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    
+    <div class="flex_galar">
+        <img src="myImage/1.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    <div class="flex_galar">
+        <img src="myImage/2.jpg" alt="">
+          <h3 align="center">Picture </h3> 
+    </div>
+    
+    <div class="flex_galar">
+        <img src="myImage/3.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    
+    <div class="flex_galar">
+        <img src="myImage/4.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    
+    <div class="flex_galar">
+        <img src="myImage/5.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    
+    <div class="flex_galar">
+        <img src="myImage/6.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    
+    <div class="flex_galar">
+        <img src="myImage/7.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    
+    <div class="flex_galar">
+        <img src="myImage/8.jpg" alt="">
+    <h3 align="center">Picture </h3> 
+    </div>
+    
+    
+</aside>
+
+
+<div class="iframe">
+<iframe width="90%" height="70%" src="https://www.youtube.com/embed/rjoOajoAWWI" title="জৈব রসায়ন One Shot CQ | Organic Chemistry | HSC Chemistry 2nd Paper | Udvash" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+<footer>
+<!-- 
+    <ul class="social_area">
+    <li><a href=""><i class="fab fa-facebook"></i></a></li>
+    <li><a href=""><i class="fab fa-instagram"></i></a></li>
+    <li><a href=""> <i class="fab fa-linkedin"></i></a></li>
+    <li> <a href=""><i class="fab fa-twitter"></i></a></li>
+    <li> <a href=""><i class="fab fa-google-plus-g"></i></a></li>
+    <li> <a href=""><i class="fas fa-rss"></i></a></li>
+    <li> <a href=""><i class="fab fa-pinterest"></i></a></li>
+    <li> <a href=""><i class="fab fa-google-plus"></i></a></li>
+    <li> <a href=""><i class="fab fa-tiktok"></i></a></li>
+     </ul> -->
+   
+   All reserved by <a href="">FDBD CODER</a>
+   |   <?php echo "© ".date("20y") ?>  |
+   
+   <a href="https://web.facebook.com/share/p/nrn2ePvEK84bqRVU/"><i class="fab fa-facebook"></i></a>
+    <a href="https://web.facebook.com/share/p/nrn2ePvEK84bqRVU/"><i class="fab fa-instagram"></i></a>
+    <a href="https://web.facebook.com/share/p/nrn2ePvEK84bqRVU/"> <i class="fab fa-linkedin"></i></a>
+    <a href="https://web.facebook.com/share/p/nrn2ePvEK84bqRVU/"><i class="fab fa-twitter"></i></a>
+    <a href="https://web.facebook.com/share/p/nrn2ePvEK84bqRVU/"><i class="fab fa-google-plus-g"></i></a>
+    <a href="https://web.facebook.com/share/p/nrn2ePvEK84bqRVU/"><i class="fas fa-rss"></i></a>
+    </div>
+</footer>
+
+ <div id= "time_date">  
+  <?php
+    date_default_timezone_set("Asia/Dhaka");
+    echo  date("h:i:s a"). "<br>".
+    date("d/m/20y");//. date("date_modify")."<br>";
+   ?>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="jquery.bxslider.min.js"></script>
+ <script>
+    $(document).ready(function(){
+      $(".slider").bxSlider();
+    });
+  </script>
+  <script>alert ( "Hi! Welcome to FDBD CODER." )</script>
+  
+
+</body>
+</html>
+
+
